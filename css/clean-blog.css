@@ -432,3 +432,45 @@ footer .copyright {
 .image-about-me {
   border-radius: 1%!important;
 }
+
+.display-4 {
+  font-size: 3.5rem;
+  line-height:1.2;
+}
+
+.typeabout{
+  font-size: 65px !important;
+  font-weight: 700;
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  color: #0da49c;
+  margin-top: 0;
+
+}
+.funfacts{
+  font-size: 35px !important;
+  font-weight: 700;
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  color: #595959;
+  margin-top: 0;
+
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: #0da49c;
+  border-radius: 30%;
+  display: inline-block;
+}
+
+.inescolor {
+  color: #0da49c;
+}
+
+.headabout{
+  font-size: 16px !important;
+  font-weight: 700;
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  color: #595959;
+  margin-top: 0;
+}
